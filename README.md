@@ -92,7 +92,7 @@ Toggles a windows "Always On Top" property by hitting F7 on the active window.
 
 ### Built With
 
-* [![MASM32]](https://www.masm32.com/)
+* [MASM32](https://www.masm32.com/)
 * Microsoft Visual Studio Community 2022
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
