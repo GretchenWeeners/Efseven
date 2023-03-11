@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Efseven](https://github.com/GretchenWeeners/Efseven)
+[![Efseven](https://github.com/GretchenWeeners/Efseven)]
 
 Toggles a windows "Always On Top" property by hitting F7 on the active window.
 
