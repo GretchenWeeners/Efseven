@@ -82,9 +82,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Efseven](https://github.com/GretchenWeeners/Efseven)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `GretchenWeeners`, `Efseven`, `GretchenWeeners`, `GretchenWeeners`, `email_client`, `email`, `Efseven`, `Ephseven rewritten in asm`
+Toggles a windows "Always On Top" property by hitting F7 on the active window.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
