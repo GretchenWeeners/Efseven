@@ -93,7 +93,7 @@ Toggles a windows "Always On Top" property by hitting F7 on the active window.
 ### Built With
 
 * [![MASM32](https://img.pcsoft.com.cn/soft/202011/143859-5fbcaa8336e41.jpg)](https://www.masm32.com/)
-* [![Microsoft Visual Studio Community 2022]
+* Microsoft Visual Studio Community 2022
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,6 +125,16 @@ Vidual Studio and MASM32 if compiling from source.
 
 1. Run.
 2. Hit F7 to un/set the Always_On_Top property of the active window.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- COMPILING -->
+## Compiling
+
+This was built in Visual Studio Community 2022. All you need to do is open the project and build solution.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
