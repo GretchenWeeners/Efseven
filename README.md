@@ -22,7 +22,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![License][license-shield]](https://github.com/GretchenWeeners/Efseven/blob/master/LICENSE.md)
+[![License][license-shield]](LICENSE.md)
 
 
 
