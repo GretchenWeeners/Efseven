@@ -30,13 +30,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/GretchenWeeners/Efseven">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/909330462294540342/1084277101445783632/output.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Efseven</h3>
 
   <p align="center">
-    Ephseven rewritten in asm
+	  <a href="https://github.com/GretchenWeeners/Ephseven">Ephseven</a> rewritten in asm.
   </p>
 </div>
 
@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Efseven](https://github.com/GretchenWeeners/Efseven)]
+[Efseven](https://github.com/GretchenWeeners/Efseven)
 
 Toggles a windows "Always On Top" property by hitting F7 on the active window.
 
