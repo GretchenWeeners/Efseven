@@ -37,15 +37,6 @@
 
   <p align="center">
     Ephseven rewritten in asm
-    <br />
-    <a href="https://github.com/GretchenWeeners/Efseven"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/GretchenWeeners/Efseven">View Demo</a>
-    ·
-    <a href="https://github.com/GretchenWeeners/Efseven/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/GretchenWeeners/Efseven/issues">Request Feature</a>
   </p>
 </div>
 
@@ -69,6 +60,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#compiling">Compiling</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
